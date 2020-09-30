@@ -28,6 +28,7 @@ var ifSupportsDescriptors = Object.defineProperty && arePropertyDescriptorsSuppo
 // Tests ported from https://github.com/es-shims/es6-shim/blob/master/test/string.js#L496-L541
 
 var hasStrictMode = (function () {
+	'use strict';
 	return this === null;
 }).call(null);
 
