@@ -1,4 +1,4 @@
-/* global CreateMethodProperty, Type, ToInteger */
+/* global CreateMethodProperty, IsInteger */
 // 20.1.2.5. Number.isSafeInteger ( number )
 CreateMethodProperty(Number, 'isSafeInteger', function isSafeInteger(number) {
 	// 1. If ! IsInteger(number) is true, then
