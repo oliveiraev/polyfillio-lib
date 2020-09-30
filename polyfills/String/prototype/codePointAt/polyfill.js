@@ -16,5 +16,5 @@ CreateMethodProperty(String.prototype, 'codePointAt', function codePointAt(pos) 
 	// 6. Let cp be ! CodePointAt(S, position).
 	var cp = CodePointAt(S, position);
 	// 7. Return cp.[[CodePoint]].
-	return cp;
+	return cp.CodePoint;
 });
