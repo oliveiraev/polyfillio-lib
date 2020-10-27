@@ -6,7 +6,7 @@ CreateMethodProperty(String, 'fromCodePoint', function fromCodePoint(_ /*...code
 	var result = [];
 	var codePoints = arguments;
 	// 1. Let elements be a new empty List.
-	var elements = [];
+	// var elements = [];
 	// 2. For each element next of codePoints, do
 	for (var i = 0; i < codePoints.length; i++) {
 		var next = codePoints[i];
