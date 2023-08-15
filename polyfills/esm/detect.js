@@ -1,0 +1,2 @@
+/* This needs to be an expression which evaluates to true if the feature exists */
+HTMLScriptElement.supports && HTMLScriptElement.supports.name === 'supports' && HTMLScriptElement.supports('importmap')
