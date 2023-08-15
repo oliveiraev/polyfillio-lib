@@ -34,10 +34,6 @@ license = "MIT"
 
 repo = "https://github.com/guybedford/es-module-shims"
 
-[install]
-module = "es-module-shims"
-paths = [ "dist/es-module-shims.js" ]
-
 #### Browser compatibility
 # List what browsers require the polyfill.
 # You can check the related Mozilla Developer Network (MDN) page for the compatibility, they also have their browser compatibility data on GitHub.
