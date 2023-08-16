@@ -5,10 +5,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/financial-times/polyfill-library.git"
+    "url": "https://github.com/JakeChampion/polyfill-library.git"
   },
   "bugs": {
-    "url": "https://github.com/financial-times/polyfill-library/issues"
+    "url": "https://github.com/JakeChampion/polyfill-library/issues"
   },
   "scripts": {
     "lint": "eslint polyfills lib tasks test",
