@@ -43,7 +43,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=12"
+    "node": ">=18"
   },
   "files": [
     "/CHANGELOG.md",
@@ -127,6 +127,6 @@
     "whatwg-fetch": "^3.6.2"
   },
   "volta": {
-    "node": "16.20.0"
+    "node": "18.17.1"
   }
 }
