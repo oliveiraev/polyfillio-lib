@@ -8,6 +8,7 @@ polyfills/__dist/**
 polyfills/ArrayBuffer/polyfill.js
 polyfills/atob/polyfill.js
 polyfills/AudioContext/polyfill.js
+polyfills/esm/polyfill.js
 polyfills/EventSource/polyfill.js
 polyfills/fetch/polyfill.js
 polyfills/HTMLPictureElement/polyfill.js
